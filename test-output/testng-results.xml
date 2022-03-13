@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42577" started-at="2022-03-02T14:32:13 IST" finished-at="2022-03-02T14:32:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42577" started-at="2022-03-02T14:32:13 IST" finished-at="2022-03-02T14:32:55 IST">
+      <class name="Com.Test.webForm">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:Com.Test.webForm@5185bd]" name="openbrowser" is-config="true" duration-ms="41593" started-at="2022-03-02T14:32:13 IST" finished-at="2022-03-02T14:32:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="DatePicker()[pri:0, instance:Com.Test.webForm@5185bd]" name="DatePicker" duration-ms="726" started-at="2022-03-02T14:32:54 IST" finished-at="2022-03-02T14:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DatePicker -->
+        <test-method status="PASS" signature="closeingbrowser()[pri:0, instance:Com.Test.webForm@5185bd]" name="closeingbrowser" is-config="true" duration-ms="0" started-at="2022-03-02T14:32:55 IST" finished-at="2022-03-02T14:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeingbrowser -->
+      </class> <!-- Com.Test.webForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
